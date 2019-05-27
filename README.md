@@ -1,10 +1,13 @@
-# Obitos em Hospitais
+# Óbitos em Hospitais
 
-Foi utilizado dos dados do DataSus para realizar o trabalho.
-A base de dados utilizada é a quantidade de óbitos que ocorreu nos hospitais do SUS no período de 2008 a 2018.
-O principal objetivo do trabalho era mostrar que, o números de mortes por infecção hospitalar é a principal causa. Pois na maioria dos  indices ilustra que o paciente acabava contraindo Pneumonia ou Sepcetimia por ficar hospedado nos hospitais.
+Foram utilizados dados do DataSus referentes à quantidade de óbitos em hospitais do SUS entre 2008 a 2018.
+O principal objetivo do trabalho era mostrar que infecção hospitalar e pneumonia são as maiores causas de óbito. A maioria dos pacientes acaba contraindo Pneumonia ou Septicemia por tempo de internação em hospitais.
+Septicemia ou Sepse é o termo médico para infecção hospitalar.
 
 # Gráfico de Linhas
 
-Neste gráfico foi inserido as 5 maiores razões de óbitos, além de um comparativo com a média.
-E pode se concluir que as doenças pneumonia e sepcetimia são mas maiores causas dispardamente.
+Neste gráfico foram inseridas as 5 maiores causas de óbito, além de um comparativo com a média.
+Concluiu-se que Pneumonia e Sepcetimia são as maiores causas disparadamente.
+
+# Mapeamento dos Óbitos
+O número de óbitos por sepse ou pneumonia em hospitais cresceu nos últimos anos acompanhando o crescimento populacional, se concentrando em capitais e pontualmente em algumas cidades.
