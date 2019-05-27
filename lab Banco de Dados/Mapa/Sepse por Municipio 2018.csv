@@ -1,0 +1,459 @@
+﻿Municipios;Obitos
+11001 Porto Velho;185
+11002 Guajará-Mirim;3
+11003 Ariquemes;67
+11004 Ji-Paraná;13
+11006 Cacoal;15
+11007 Vilhena;25
+12001 Cruzeiro do Sul;9
+12004 Rio Branco;29
+13001 Rio Negro AM;1
+13003 Alto Solimões;2
+13004 Juruá;1
+13005 Tefé;2
+13006 Coari;5
+13007 Manaus;860
+13010 Parintins;5
+13013 Madeira;1
+14001 Boa Vista;50
+15001 Óbidos;37
+15002 Santarém;194
+15003 Almeirim;1
+15005 Furos de Breves;6
+15006 Arari;1
+15007 Belém;715
+15008 Castanhal;37
+15009 Salgado;5
+15010 Bragantina;72
+15011 Cametá;15
+15012 Tomé-Açu;4
+15013 Guamá;3
+15014 Itaituba;7
+15015 Altamira;62
+15016 Tucuruí;4
+15017 Paragominas;6
+15018 S.Félix Xingu;12
+15019 Parauapebas;14
+15020 Marabá;13
+15021 Redenção;26
+16003 Macapá;18
+17002 Araguaína;98
+17004 Rio Formoso;1
+17005 Gurupi TO;23
+17006 Porto Nacional;87
+17008 Dianópolis;2
+21001 Litoral Ocid.MA;8
+21002 São Luís;209
+21004 Lençóis MA;13
+21005 Baixada MA;17
+21008 Pindaré;10
+21009 Imperatriz;209
+21010 Médio Mearim;15
+21012 Pres. Dutra;4
+21015 Codó;11
+21017 Caxias;27
+21018 Chap.Itapecuru;2
+21020 Gerais Balsas;7
+22001 B.Parnaíba PI;5
+22002 Litoral PI;64
+22003 Teresina;169
+22004 Campo Maior;1
+22007 A.Parnaíba PI;1
+22009 Floriano;30
+22011 S.Raim.Nonato;2
+22013 Picos;17
+22015 A.M.Canindé;2
+23005 Sobral;589
+23008 Itapipoca;14
+23009 Baixo Curu;1
+23011 Médio Curu;1
+23012 Canindé;28
+23013 Baturité;3
+23014 Chorozinho;2
+23015 Cascavel CE;2
+23016 Fortaleza;1131
+23017 Pacajus;1
+23018 Sertão Cratéus;40
+23019 Quixeramobim;144
+23020 Sertão Inhamuns;8
+23021 Senador Pompeu;6
+23022 Litoral Aracati;7
+23023 Baixo Jaguaribe;39
+23024 Médio Jaguaribe;1
+23026 Iguatu;40
+23027 Várzea Alegre;2
+23028 Lavr.Mangabeira;2
+23030 Caririaçu;2
+23031 Barro;2
+23032 Cariri;353
+23033 Brejo Santo;10
+24001 Mossoró;57
+24002 Chap.Apodi;1
+24004 Vale do Açu;1
+24006 Pau dos Ferros;7
+24008 Macau;1
+24011 Seridó Ocid.;80
+24012 Seridó Oriental;34
+24015 Agreste RN;4
+24017 Macaíba;19
+24018 Natal;432
+25001 Catolé do Rocha;2
+25002 Cajazeiras;4
+25003 Sousa;9
+25004 Patos;16
+25005 Piancó;12
+25010 Cariri Ocid.;3
+25011 Cariri Oriental;1
+25012 Curimataú Ocid.;2
+25014 Esperança;12
+25016 Guarabira;47
+25017 Campina Grande;156
+25018 Itabaiana;7
+25020 Litoral Norte;8
+25021 Sapé;1
+25022 João Pessoa;331
+26001 Araripina;8
+26002 Salgueiro;37
+26003 Pajeú;166
+26004 Sertão Moxotó;249
+26005 Petrolina;33
+26006 Itaparica;2
+26008 Vale do Ipojuca;305
+26009 Alto Capibaribe;11
+26010 M.Capibaribe;179
+26011 Garanhuns;174
+26012 Brejo PE;6
+26013 Mata Set.PE;22
+26014 Vitória S.Antão;3
+26015 Mata Merid.PE;94
+26017 Recife;2426
+26018 Suape;103
+27003 Santana Ipanema;3
+27005 Palmeira Índios;30
+27006 Arapiraca;41
+27011 Maceió;446
+27012 S.Miguel Campos;55
+27013 Penedo;17
+28004 Agr.Itabaiana;50
+28006 Agr.Lagarto;38
+28007 Propriá;4
+28011 Aracaju;296
+28013 Estância;18
+29001 Barreiras;33
+29002 Cotegipe;1
+29003 S Maria Vitória;1
+29004 Juazeiro;78
+29005 Paulo Afonso;5
+29006 Barra;2
+29007 B Jesus da Lapa;3
+29008 Senhor Bonfim;21
+29009 Irecê;33
+29010 Jacobina;6
+29011 Itaberaba;5
+29012 F Santana;132
+29013 Jeremoabo;2
+29014 Euclides Cunha;11
+29015 Ribeira Pombal;16
+29016 Serrinha;7
+29017 Alagoinhas;29
+29018 Entre Rios;3
+29019 Catu;29
+29020 S Antônio Jesus;72
+29021 Salvador;563
+29022 Boquira;4
+29023 Seabra;14
+29024 Jequié;45
+29025 Livr.Brumado;10
+29026 Guanambi;40
+29027 Brumado;12
+29028 Vit.Conquista;126
+29029 Itapetinga;94
+29030 Valença;7
+29031 Ilhéus-Itabuna;132
+29032 Porto Seguro;48
+31001 Unaí;3
+31002 Paracatu;4
+31003 Januária;38
+31004 Janaúba;25
+31005 Salinas;65
+31006 Pirapora;20
+31007 Montes Claros;104
+31009 Bocaiúva;1
+31010 Diamantina;98
+31011 Capelinha;17
+31012 Araçuaí;15
+31013 Pedra Azul;5
+31014 Almenara;70
+31015 Teófilo Otoni;23
+31016 Nanuque;14
+31017 Ituiutaba;3
+31018 Uberlândia;372
+31019 Patrocínio;55
+31020 Patos de Minas;70
+31021 Frutal;4
+31022 Uberaba;221
+31023 Araxá;31
+31024 Três Marias;17
+31025 Curvelo;20
+31026 Bom Despacho;16
+31027 Sete Lagoas;149
+31028 Conc. M. Dentro;6
+31029 Pará de Minas;44
+31030 B Horizonte;2605
+31031 Itabira;91
+31032 Itaguara;2
+31033 Ouro Preto;7
+31034 Cons. Lafaiete;26
+31035 Guanhães;7
+31036 Peçanha;2
+31037 Gov. Valadares;209
+31038 Mantena;3
+31039 Ipatinga;450
+31040 Caratinga;7
+31041 Aimorés;37
+31042 Piuí;51
+31043 Divinópolis;75
+31044 Formiga;40
+31045 Campo Belo;2
+31046 Oliveira;79
+31047 Passos;198
+31048 S. Seb. Paraíso;64
+31049 Alfenas;67
+31050 Varginha;178
+31051 P. Caldas;206
+31052 P. Alegre;72
+31053 S Rita Sapucaí;11
+31054 S. Lourenço;144
+31055 Andrelândia;11
+31056 Itajubá;176
+31057 Lavras;55
+31058 S J del Rei;34
+31059 Barbacena;67
+31060 Ponte Nova;46
+31061 Manhuaçu;53
+31062 Viçosa;41
+31063 Muriaé;87
+31064 Ubá;174
+31065 Juiz de Fora;173
+31066 Cataguases;94
+32003 Colatina;58
+32005 São Mateus;26
+32006 Linhares;73
+32007 Afonso Cláudio;27
+32008 Santa Teresa;4
+32009 Vitória;188
+32010 Guarapari;2
+32011 Alegre;110
+32012 Cach.Itapemirim;112
+32013 Itapemirim;9
+33001 Itaperuna;290
+33002 S.Antônio Pádua;67
+33003 Campos Goytac.;183
+33004 Macaé;91
+33005 Três Rios;15
+33006 Cantag/Cordeiro;11
+33007 Nova Friburgo;108
+33008 S.M.Madalena;13
+33009 Bacia de S.João;32
+33010 Lagos;86
+33011 Vale Paraíba RJ;153
+33012 Barra do Piraí;22
+33013 Baía I.Grande;100
+33014 Vassouras;114
+33015 Serrana;200
+33016 Macacu-Caceribu;55
+33017 Itaguaí;69
+33018 Rio de Janeiro;4655
+35001 Jales;83
+35002 Fernandópolis;116
+35003 Votuporanga;12
+35004 S.José R.Preto;85
+35005 Catanduva;397
+35007 Nhandeara;1
+35008 Novo Horizonte;15
+35009 Barretos;43
+35010 S.Joaquim Barra;32
+35011 Ituverava;95
+35012 Franca;326
+35013 Jaboticabal;210
+35014 Ribeirão Preto;667
+35015 Batatais;50
+35016 Andradina;59
+35017 Araçatuba;73
+35018 Birigui;30
+35019 Lins;9
+35020 Bauru;264
+35021 Jaú;64
+35022 Avaré;44
+35023 Botucatu;369
+35024 Araraquara;143
+35025 São Carlos;30
+35026 Rio Claro;92
+35027 Limeira;143
+35028 Piracicaba;108
+35029 Pirassununga;32
+35030 S.João B.Vista;151
+35031 Mogi Mirim;161
+35032 Campinas;1082
+35033 Amparo;205
+35034 Dracena;64
+35035 Adamantina;69
+35036 Pres.Prudente;323
+35037 Tupã;93
+35038 Marília;303
+35039 Assis;90
+35040 Ourinhos;51
+35041 Itapeva;88
+35042 Itapetininga;43
+35043 Tatuí;19
+35044 Capão Bonito;16
+35045 Piedade;5
+35046 Sorocaba;254
+35047 Jundiaí;473
+35048 Bragança SP;197
+35049 Campos Jordão;3
+35050 S.José Campos;318
+35051 Guaratinguetá;163
+35053 Par./Paraitinga;12
+35054 Caraguatatuba;150
+35055 Registro;16
+35056 Itanhaém;54
+35057 Osasco;658
+35058 Franco da Rocha;46
+35059 Guarulhos;471
+35060 Itapec.Serra;696
+35061 São Paulo;7640
+35062 Mogi das Cruzes;361
+35063 Santos;184
+41001 Paranavaí;6
+41002 Umuarama;72
+41003 Cianorte;31
+41004 Goioerê;6
+41005 Campo Mourão;48
+41006 Astorga;17
+41008 Floraí;1
+41009 Maringá;370
+41010 Apucarana;127
+41011 Londrina;413
+41013 Ivaiporã;59
+41015 Corn.Procópio;216
+41016 Jacarezinho;38
+41017 Ibaiti;2
+41018 Wenceslau Braz;4
+41019 Telêmaco Borba;33
+41020 Jaguariaíva;2
+41021 Ponta Grossa;93
+41022 Toledo;171
+41023 Cascavel PR;140
+41024 Foz do Iguaçu;68
+41025 Capanema;2
+41026 Franc.Beltrão;81
+41027 Pato Branco;71
+41028 Pitanga;3
+41029 Guarapuava;47
+41030 Palmas;55
+41031 Prudentópolis;5
+41032 Irati;7
+41033 União Vitória;54
+41034 S.Mateus do Sul;2
+41037 Curitiba;987
+41038 Paranaguá;14
+41039 Rio Negro PR;4
+42001 S.Miguel Oeste;45
+42002 Chapecó;91
+42003 Xanxerê;35
+42004 Joaçaba;82
+42005 Concórdia;12
+42006 Canoinhas;93
+42007 S.Bento do Sul;33
+42008 Joinville;247
+42009 Curitibanos;40
+42010 Campos de Lages;52
+42011 Rio do Sul;44
+42012 Blumenau;232
+42013 Itajaí;116
+42014 Ituporanga;67
+42015 Tijucas;3
+42016 Florianópolis;123
+42018 Tubarão;137
+42019 Criciúma;123
+42020 Araranguá;72
+43001 Santa Rosa;92
+43002 Três Passos;15
+43003 Fred.Westphalen;51
+43004 Erechim;61
+43005 Sananduva;16
+43006 Cerro Largo;16
+43007 Santo Ângelo;75
+43008 Ijuí;74
+43009 Carazinho;49
+43010 Passo Fundo;123
+43011 Cruz Alta;33
+43012 Não-Me-Toque;5
+43013 Soledade;39
+43014 Guaporé;19
+43015 Vacaria;81
+43016 Caxias do Sul;187
+43017 Santiago;86
+43018 Santa Maria;66
+43019 Restinga Seca;8
+43020 S. Cruz do Sul;87
+43021 Lajeado-Estrela;166
+43022 Cachoeira Sul;20
+43023 Montenegro;67
+43024 Gramado-Canela;49
+43025 S. Jerônimo;82
+43026 Porto Alegre;1815
+43027 Osório;100
+43028 Camaquã;2
+43029 Campanha Ocid.;115
+43030 Campanha Centr.;84
+43031 Campanha Merid.;47
+43033 Pelotas;210
+43034 Jaguarão;5
+43035 Litoral Lagunar;134
+50001 Baixo Pantanal;43
+50002 Aquidauana;6
+50003 Alto Taquari;5
+50004 Campo Grande;60
+50005 Cassilândia;4
+50006 Paranaíba;1
+50007 Três Lagoas;12
+50008 Nova Andradina;1
+50009 Bodoquena;1
+50010 Dourados;76
+50011 Iguatemi;11
+51001 Aripuanã;3
+51002 Alta Floresta;19
+51003 Colíder;28
+51004 Parecis;1
+51006 A.Teles Pires;37
+51007 Sinop;7
+51008 Paranatinga;1
+51009 Norte Araguaia;3
+51010 Canarana;12
+51011 Médio Araguaia;10
+51013 Tangará Serra;8
+51017 Cuiabá;790
+51018 Alto Pantanal;3
+51019 Primavera Leste;22
+51020 Tesouro;2
+51021 Rondonópolis;36
+51022 Alto Araguaia;1
+52001 S.Miguel Arag.;1
+52002 Rio Vermelho;6
+52003 Aragarças;3
+52004 Porangatu;20
+52006 Ceres;31
+52007 Anápolis;67
+52008 Iporá;1
+52009 Anicuns;1
+52010 Goiânia;179
+52011 Vão do Paranã;1
+52012 Ent.Brasília;25
+52013 SO de Goiás;80
+52015 Meia Ponte;24
+52016 Pires do Rio;5
+52017 Catalão;18
+52018 Quirinópolis;3
+53001 Brasília;785
