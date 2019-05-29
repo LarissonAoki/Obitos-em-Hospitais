@@ -11,3 +11,8 @@ Concluiu-se que Pneumonia e Sepcetimia são as maiores causas disparadamente.
 
 # Mapeamento dos Óbitos
 O número de óbitos por sepse ou pneumonia em hospitais cresceu nos últimos anos acompanhando o crescimento populacional, se concentrando em capitais e pontualmente em algumas cidades.
+
+# Autores
+André Luiz Antuines <br />
+Larissa Soares Aoki <br />
+Leticia Croffi
